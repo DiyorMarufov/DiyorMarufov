@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **JavaScript, TypeScript, and NestJS**
 - 👯 I’m looking to collaborate on **Backend Projects**
 - 💬 Ask me about anything related to **Web Development or Node.js**
-- 📫 How to reach me: **[youremail@example.com]**
+- 📫 How to reach me: **marufovdiyor9@gmail.com**
 - ⚡ Fun fact: I enjoy turning complex problems into clean solutions 😎
 
 ---
@@ -41,7 +41,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/yourtelegram)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-📧 **Email**: youremail@example.com
+📧 **Email**: marufovdiyor9@gmail.com
 
 ---
 
