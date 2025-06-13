@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Ismingiz]</h1>
+<h1 align="center">Hi there 👋, I'm Diyor</h1>
 <h3 align="center">💻 Passionate Developer | 🌍 Learner | 🚀 Always Exploring</h3>
 
 <p align="center">
