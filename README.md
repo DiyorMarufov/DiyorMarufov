@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Diyor</h1>
 <h3 align="center">💻 Passionate Developer | 🌍 Learner | 🚀 Always Exploring</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=+learning+JavaScript,+TypeScript,+NestJS+;I+love+backend+development!" />
+
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=+learning+JavaScript,+TypeScript,+NestJS+;I+love+backend+development!" />
 </p>
 
 ---
