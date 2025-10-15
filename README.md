@@ -31,7 +31,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center flex flex-col gap-5">
+<p align="center">
   <img width="527" src="https://github-readme-stats.vercel.app/api?username=DiyorMarufov&show_icons=true&theme=radical" />
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyorMarufov&layout=compact&theme=radical" />
 </p>
