@@ -10,9 +10,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, and NestJS**
-- 👯 I’m looking to collaborate on **Backend Projects**
-- 💬 Ask me about anything related to **Web Development or Node.js**
+- 🌱 I’m currently Full Stack Engineer
+- 👯 I’m looking to collaborate on **Full stack Projects**
+- 💬 Ask me about anything related to **Web Development*
 - 📫 How to reach me: **marufovdiyor9@gmail.com**
 - ⚡ Fun fact: I enjoy turning complex problems into clean solutions 😎
 
